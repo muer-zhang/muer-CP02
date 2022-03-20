@@ -1,0 +1,19 @@
+{
+  "name": "ascii-art-reader",
+  "version": "1.0.0",
+  "description": "state of the (ASCII ART) terminal client - muer version",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muer-zhang/ascii-art-reader-muer.git"
+  },
+  "author": "muer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muer-zhang/ascii-art-reader-muer/issues"
+  },
+  "homepage": "https://github.com/muer-zhang/ascii-art-reader-muer#readme"
+}
