@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/muer-zhang/ascii-art-reader-muer/issues"
   },
-  "homepage": "https://github.com/muer-zhang/ascii-art-reader-muer#readme"
+  "homepage": "https://github.com/muer-zhang/ascii-art-reader-muer#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
